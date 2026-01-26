@@ -1,0 +1,1 @@
+Take the following grid and insert the values from the grid into target table. If the unique identifier of the incoming data already exists in the destination table, update the record instead of creating a new record.

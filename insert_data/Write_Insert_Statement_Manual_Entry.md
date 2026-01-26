@@ -1,0 +1,1 @@
+Write an insert statement for this table, assuming that it will insert a single record where I provide the values. Give me a mechanism within the query to enter in the values to insert.
